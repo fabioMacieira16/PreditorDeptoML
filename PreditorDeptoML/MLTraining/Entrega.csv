@@ -1,0 +1,4 @@
+ID da Entrega, ID do Motorista, Destinatário, Endereço de Entrega, Data de Entrega Prevista, Status da Entrega
+1, 1, Cliente A, Rua 123, 2024-05-24, Pendente
+2, 2, Cliente B, Av. XYZ, 2024-05-25, Em trânsito
+3, 3, Cliente C, Praça ABC, 2024-05-26, Entregue
